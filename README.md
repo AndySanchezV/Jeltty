@@ -77,4 +77,4 @@
   - **Púrpura** (#9886cf) para mostrar datos en gráifcos.
 
 ## 📈 **Diagrama de despliegue Jeltty**
-![Diagrama de despliegue] (docs/DiagramaDespliegue.png)
+![Imagen](docs/DiagramaDespliegue.png)
