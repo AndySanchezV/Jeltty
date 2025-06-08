@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jeltty</string>
+    <string name="home">Inicio</string>
+    <string name="favorites">Favoritos</string>
+    <string name="user_header">Bienvenide, Usuarie</string>
+    <string name="recipe_detail">Detalle de receta</string>
+    <string name="add_to_favorites">Añadir a favoritos</string>
+    <string name="back">Volver</string>
+    <string name="no_favorites">No hay recetas favoritas</string>
+    <string name="delete">Eliminar</string>
+</resources>
